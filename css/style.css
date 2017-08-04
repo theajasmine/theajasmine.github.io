@@ -1,0 +1,19 @@
+.navbar-inverse {
+    background-color: #ffdfe3;
+    font-family: 'Julee', cursive;
+}
+
+#bakgrund {
+	background-image: url("../bilder/blommor.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+body{
+	font-family: 'Rochester', cursive;
+}
+
+.välkommen {
+	text-align: center;
+}
